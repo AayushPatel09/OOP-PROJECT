@@ -113,7 +113,7 @@ VehicleRentalSystem/
 
 ### Developer:
 
-https://github.com/AhmedNawasany/new-repository/tree/Project
+https://github.com/AayushPatel09/OOP-PROJECT.git
 
 Thank you for using the Vehicle Rental System.
 
