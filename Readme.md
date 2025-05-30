@@ -113,6 +113,4 @@ Aayush Patel
 
 https://github.com/AayushPatel09/OOP-PROJECT.git
 
-Thank you for using the Vehicle Rental System.
-
-HERE IS THE README FILE
+Thank you for using the Vehicle Rental System
