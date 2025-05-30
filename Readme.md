@@ -107,9 +107,7 @@ VehicleRentalSystem/
 
 ## Credits
 
-𝟙 Tarang Shah
-𝟚 Aayush Patel
-𝟛 Ahmed Nawasany
+Aayush Patel
 
 ### Developer:
 
